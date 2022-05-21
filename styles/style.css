@@ -112,7 +112,12 @@ body{
 }
 @media screen and (max-width:600px){
     
-    
+    .row1 h1 {
+        font-size: 50px;
+        font-family:cursive;
+        color:rgb(224, 149, 36);
+        letter-spacing: 0em;
+    }
     .wrapper{
         display:contents;
         text-align: center;
